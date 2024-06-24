@@ -10,7 +10,7 @@ I built this site using Angular and hosted it on GitHub Pages. The deployment pr
 - **Angular Framework**: A powerful, versatile framework for building single-page applications.
 - **GitHub Pages**: Free hosting directly from your GitHub repository.
 - **Easy Deployment**: Streamlined deployment process using `ng deploy`.
-
+- **Easy Run**: Streamlined deployment process using `ng s`.
 ## Getting Started
 
 ### Prerequisites
