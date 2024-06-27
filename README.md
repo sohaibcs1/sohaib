@@ -22,4 +22,4 @@ I built this site using Angular and hosted it on GitHub Pages. The deployment pr
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/sohaibcs1/sohaib)
+   git clone https://github.com/sohaibcs1/sohaib
