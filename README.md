@@ -2,7 +2,7 @@
 
 Welcome to the code for my [personal website](https://sohaibcs1.github.io/sohaib/)
 
-Feel free to explore, copy, or reach out with questions on how to create a similar site. There are many other resources and templates available for personal websites, such as [Academic Pages](https://academicpages.github.io/)
+Feel free to explore, copy, or reach out with questions on how to create a similar site. There are many other resources and templates available for personal websites, such as [Academic Pages](https://academicpages.github.io/)..
 
 I built this site using Angular and hosted it on GitHub Pages. The deployment process is simple—just run `ng deploy` with the help of the [angular-cli-ghpages](https://github.com/angular-schule/angular-cli-ghpages) tool.
 
