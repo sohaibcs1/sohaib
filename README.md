@@ -19,6 +19,7 @@ I built this site using Angular and hosted it on GitHub Pages. The deployment pr
 - `npm i --force`
 - `export NODE_OPTIONS=--openssl-legacy-provider`
 - `ng build` saved files in docs
+- after build remove `<!doctype html>` from index.html
 
 ### Installation
 1. Clone the repository:
