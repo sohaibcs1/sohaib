@@ -17,9 +17,7 @@ I built this site using Angular and hosted it on GitHub Pages. The deployment pr
 - Node.js and npm installed
 - Angular CLI installed globally (`npm install -g @angular/cli`)
 - `npm i --force`
-- `export NODE_OPTIONS=--openssl-legacy-provider`
-- `ng build` saved files in docs
-- after build remove `<!doctype html>` from index.html
+- `set NODE_OPTIONS=--openssl-legacy-provider` 
 
 ### Installation
 1. Clone the repository:
