@@ -7,7 +7,7 @@ Feel free to explore, copy, or reach out with questions on how to create a simil
 I built this site using Angular and hosted it on GitHub Pages. The deployment process is simple—just run `ng deploy` with the help of the [angular-cli-ghpages](https://github.com/angular-schule/angular-cli-ghpages) tool.
 
 ## Key Features
-- **Angular Framework**: A powerful, versatile framework for building single-page applications.!
+- **Angular Framework**: A powerful, versatile framework for building single-page applications.
 - **GitHub Pages**: Free hosting directly from your GitHub repository.
 - **Easy Deployment**: Streamlined deployment process using `ng deploy`.
 - **Easy Run**: Streamlined deployment process using `ng s`.
