@@ -1,6 +1,6 @@
 # My Website!
 
-Welcome to the code for my [personal website](https://sohaibcs1.github.io/sohaib/)!#^
+Welcome to the code for my [personal website](https://sohaibcs1.github.io/sohaib/)!#
 
 Feel free to explore, copy, or reach out with questions on how to create a similar site. There are many other resources and templates available for personal websites, such as [Academic Pages](https://academicpages.github.io/).
 
@@ -11,7 +11,7 @@ I built this site using Angular and hosted it on GitHub Pages. The deployment pr
 - **GitHub Pages**: Free hosting directly from your GitHub repository.
 - **Easy Deployment**: Streamlined deployment process using `ng deploy`.
 - **Easy Run**: Streamlined deployment process using `ng s`.
-## Getting Started
+## Getting Started #$
 
 ### Prerequisites
 - Node.js and npm installed
