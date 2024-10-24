@@ -1,6 +1,6 @@
 # My Website!@
 
-Welcome to the code for my [personal website](https://sohaibcs1.github.io/sohaib/))!@@@
+Welcome to the code for my [personal website](https://sohaibcs1.github.io/sohaib/))!@
 
 Feel free to explore, copy, or reach out with questions on how to create a similar site. There are many other resources and templates available for personal websites, such as [Academic Pages](https://academicpages.github.io/).
 
